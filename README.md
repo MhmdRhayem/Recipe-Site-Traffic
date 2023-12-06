@@ -1,1 +1,2 @@
 # Recipe-Site-Traffic
+This project aims to analyze historical traffic data from a recipe website to identify patterns and trends that can inform recipe development and promotion strategies. By understanding the factors that contribute to recipe popularity, we can develop data-driven recommendations to increase user engagement and overall traffic on the website.
